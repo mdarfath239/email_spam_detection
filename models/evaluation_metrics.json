@@ -1,0 +1,8 @@
+{
+    "final_test_metrics": {
+        "accuracy": 0.9619619619619619,
+        "spam_precision": 0.9073482428115016,
+        "spam_recall": 0.9692832764505119,
+        "spam_f1": 0.9372937293729373
+    }
+}
